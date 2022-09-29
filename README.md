@@ -10,4 +10,5 @@
 - ReactJS
 - Vite
 --
-![preview](./.github/JordanShoes.fw.png)
+
+![preview](JordanShoes.fw.png)
